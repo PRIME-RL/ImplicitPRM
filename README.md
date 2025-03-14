@@ -77,11 +77,10 @@ In contrast, CE generally performs better with insufficient data and can always 
 # Citation
 If you find our model, data, or evaluation code useful, please kindly cite our paper:
 ```bib
-@misc{yuan2024implicitprm,
-      title={Free Process Rewards without Process Labels}, 
-      author={Lifan Yuan and Wendi Li and Huayu Chen and Ganqu Cui and Ning Ding and Kaiyan Zhang and Bowen Zhou and Zhiyuan Liu and Hao Peng},
-      year={2024},
-      eprint={2412.01981},
-      url={https://arxiv.org/abs/2412.01981}, 
+@article{yuan2024implicitprm,
+  title={Free Process Rewards without Process Labels},
+  author={Lifan Yuan and Wendi Li and Huayu Chen and Ganqu Cui and Ning Ding and Kaiyan Zhang and Bowen Zhou and Zhiyuan Liu and Hao Peng},
+  journal={arXiv preprint arXiv:2412.01981},
+  year={2024}
 }
 ```
